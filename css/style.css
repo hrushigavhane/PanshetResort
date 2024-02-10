@@ -119,6 +119,7 @@ ul, ol {
 	padding-top: 50px;
 	padding-bottom: 70px;
 }
+
 .text-white h1, .text-white h2, .text-white h3, .text-white h4, .text-white h5, .text-white h6, .text-white p, .text-white span, .text-white li, .text-white a {
 	color: #fff;
 }
@@ -2334,4 +2335,5 @@ ul, ol {
 	.blog-details-text .comment-option .single-comment-item .sc-text a {
 		margin-bottom: 10px;
 	}
+	
 }
